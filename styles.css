@@ -39,7 +39,7 @@ header p {
 
 /* Image Section */
 .image-container img {
-    max-width: 100%;
+    max-width: 30%;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(255, 0, 127, 0.7);
     margin-bottom: 20px;
